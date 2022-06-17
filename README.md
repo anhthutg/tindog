@@ -2,6 +2,6 @@
 https://anhthutg.github.io/tindog/
 
 ### This webpage is using
-- HTML basic + intermediate
-- CSS basic + intermediate + advanced
+- HTML
+- CSS
 - Bootstrap

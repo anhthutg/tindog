@@ -1,4 +1,4 @@
-## TinDog responsive web page is here
+## Find a friend of your pet via TinDog responsive web page
 https://anhthutg.github.io/tindog/
 
 ### This web page is using

@@ -1,7 +1,7 @@
-## TinDog responsive webpage is here
+## TinDog responsive web page is here
 https://anhthutg.github.io/tindog/
 
-### This webpage is using
+### This web page is using
 - HTML
 - CSS
 - Bootstrap
